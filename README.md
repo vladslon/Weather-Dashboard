@@ -13,5 +13,5 @@ As a traveler, I want to see the weather outlook for multiple cities so that I c
 
 ## Demo
 
-https://github.com/vladslon/Weather-Dashboard/blob/main/assets/weather.png
+![screenshot](assets/wether.png)
 
