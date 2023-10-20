@@ -16,5 +16,5 @@ As a traveler, I want to see the weather outlook for multiple cities so that I c
 ![Screenshot](./assets/weather.png)
 
 ## URL 
+(https://vladslon.github.io/Weather-Dashboard/)
 
-https://vladslon.github.io/Weather-Dashboard/
